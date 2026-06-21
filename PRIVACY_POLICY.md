@@ -148,7 +148,7 @@ respective owners.
 
 ## 12. Contact
 
-Questions or data requests: **[your-contact-email-or-support-server]**
+Questions or data requests: **tpg.real09@gmail.com**
 
 *This document is provided for transparency and is not legal advice; for a commercial
 public launch, consider having it reviewed by a qualified professional.*
