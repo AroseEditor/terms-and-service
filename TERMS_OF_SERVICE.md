@@ -85,7 +85,7 @@ Continued use after changes constitutes acceptance.
 
 ## 12. Contact
 
-Questions: **[your-contact-email-or-support-server]**
+Questions:  **tpg.real09@gmail.com**
 
 *This document is provided for transparency and is not legal advice; for a commercial
 public launch, consider having it reviewed by a qualified professional.*
